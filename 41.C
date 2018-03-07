@@ -1,7 +1,8 @@
 #include<stdio.h>
 void main()
 {
-char str[5],k,i;
+char str[5];
+  int k,i;
 printf("enter a string");
 scanf("%s",&str);
 printf("enter a limit");
